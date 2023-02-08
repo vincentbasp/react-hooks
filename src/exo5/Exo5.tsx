@@ -17,3 +17,4 @@ export const Exo5 = () => {
 
     return <pre>{JSON.stringify({loading, ...data, error}, null, 4)}</pre>
   }
+  

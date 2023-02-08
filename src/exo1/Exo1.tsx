@@ -27,5 +27,5 @@ export const Exo1 = () => {
         />
         <button type="submit">Submit</button>
       </form>
-    );
-  }
+  );
+}

@@ -6,6 +6,7 @@ export const Exo2 = () => {
     const adjustCount = (amount: number) => {
       setCount(count + amount)
     }
+
     return (
       <div>
         <button onClick={() => adjustCount(-1)}>-</button>
